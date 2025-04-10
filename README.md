@@ -6,6 +6,7 @@
 
 (Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
 
+https://www.figma.com/community/file/1491765228337897918
 ## 🔨 Requisitos
 
 - Requisito 1
@@ -31,7 +32,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### Figma
 
-🔗 [Link do design]()
+🔗 [Link do design](https://www.figma.com/community/file/1491765228337897918)
 
 ## 👉🏽 Sobre esse mini-projeto
 
